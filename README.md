@@ -3,4 +3,4 @@
 
 #功能效果
 ![contents](https://github.com/LingDian2019/IEAutoRefresh/raw/master/resource/动画.gif)
-![image](https://github.com/LingDian2019/IEAutoRefresh/raw/master/resource/动画.gif)
+![image](https://github.com/LingDian2019/IEAutoRefresh/blob/main/resource/%E5%8A%A8%E7%94%BB.gif)
